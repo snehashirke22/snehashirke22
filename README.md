@@ -5,7 +5,6 @@ A passionate and dedicated Frontend Developer.
 - 🌱 I thrive in the dynamic nature of startups and am actively seeking opportunities to contribute to new and growing ventures! 
 - 👯 Looking to collaborate on frontend projects;
 - 🔭 Enjoy stargazing and learning the mysteries of the universe
-- ⚡ Fun fact: **My friends call me "The Detective" because I always find hidden details! :D**
 
 ### 🔧 Technologies & Tools
 
