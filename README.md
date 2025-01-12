@@ -1,8 +1,9 @@
 ## 👋 Hi there! I'm Sneha Rajeshirke
 
-A passionate and dedicated Frontend Developer. 
+A creative and dedicated Frontend Developer. 
 - 👨🏽‍💻 I’m passionate about creating scalable web applications
-- 🌱 I thrive in the dynamic nature of startups and am actively seeking opportunities to contribute to new and growing ventures! 
+- ⚒️ I love crafting user-friendly interfaces and building applications that look great on any device.
+- 🌱 Eager to dive deeper into the world of frontend development and explore new technologies! 
 - 👯 Looking to collaborate on frontend projects;
 - 🔭 Enjoy stargazing and learning the mysteries of the universe
 
