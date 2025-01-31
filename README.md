@@ -31,18 +31,19 @@ A creative and dedicated Frontend Developer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" style="background-color: white; padding: 5px; border-radius: 5px;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="material-ui logo" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" style="background-color: white; padding: 5px; border-radius: 5px;" />
 </div>
+
 
 ### 📫 How to Reach Me
 - [![Gmail Badge](https://img.shields.io/badge/rajeshirkesneha.work@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rajeshirkesneha.work@gmail.com)](mailto:rajeshirkesneha.work@gmail.com)
-
-
-
 
 ### 📈 GitHub Stats
 <img src="https://streak-stats.demolab.com?user=snehashirke22&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehashirke22&layout=compact&theme=radical)
-
 
 Feel free to explore my repositories and projects, and don't hesitate to get in touch if you'd like to collaborate or just say hi!
